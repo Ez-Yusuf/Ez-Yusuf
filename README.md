@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hello there! 👋</h1>
-  <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Man coding gif"/>
+  <img src="https://im2.ezgif.com/tmp/ezgif-2-1bf1dfe441.gif" alt="Man coding gif"/>
  </div>
  
  ### About Me 👨‍💻
